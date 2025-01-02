@@ -12,4 +12,4 @@ Lara Nicole - [grockelara@gmail.com](grockelara@gmail.com)
 
 ## License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE for more information.
