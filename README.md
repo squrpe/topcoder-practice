@@ -1,6 +1,6 @@
 # Topcoder & Interview Practice
 
-### Description
+## Description
 The files within this repository are my topcoder question implementations. Most of these problems are still optimisable as they are quick implementations and are basic examples of what I am capable of within a small time frame.
 
 ## Testing
